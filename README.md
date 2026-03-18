@@ -1,7 +1,7 @@
 # Discoveries Battleship Game
 
 ## 👥 Grupo
-**Nickname do grupo:** 
+**Nickname do grupo:** Engenheiros de Soft War
 
 ## 🎓 Curso
 Engenharia de Telecomunicações e Informática
