@@ -34,5 +34,5 @@ Este projeto consiste numa versão académica do jogo **Batalha Naval**, inspira
 - Ganha quem destruir todos os navios adversários
 
 
-## Atualização D5
-Teste de Pull Request
+## Teste final D5
+Branch separado para Pull Request
