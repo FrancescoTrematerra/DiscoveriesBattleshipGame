@@ -1,0 +1,8 @@
+[
+  { "name": "ENHANCEMENT", "color": "84b6eb" },
+  { "name": "CRITICAL", "color": "d73a4a" },
+  { "name": "HIGH", "color": "ff0000" },
+  { "name": "MEDIUM", "color": "fbca04" },
+  { "name": "LOW", "color": "0e8a16" },
+  { "name": "REVISIT", "color": "cfd3d7" }
+]
