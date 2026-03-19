@@ -32,3 +32,7 @@ Este projeto consiste numa versão académica do jogo **Batalha Naval**, inspira
 - Os jogadores disparam alternadamente
 - Cada jogada pode conter até 3 tiros
 - Ganha quem destruir todos os navios adversários
+
+
+## Atualização D5
+Teste de Pull Request
