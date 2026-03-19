@@ -10,6 +10,11 @@ import java.util.List;
  * @author fba
  *
  */
+
+/**
+ * Represents the main game logic for Battleship.
+ */
+
 public class Game implements IGame {
     private IFleet fleet;
     private List<IPosition> shots;
