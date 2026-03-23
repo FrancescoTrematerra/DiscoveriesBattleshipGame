@@ -10,8 +10,8 @@ Engenharia de Telecomunicações e Informática
 
 | Número | Nome                  |
 |--------|-----------------------|
-| 122640  | Francescco Trematerra|
-| 122648  |Tiago Lopes            |
+| 122640  | Francesco Trematerra|
+| 122648  |Tiago Lopes           |
 
 
 ## 🛳️ Descrição
