@@ -12,7 +12,12 @@ import java.util.List;
  */
 
 /**
- * Represents the main game logic for Battleship.
+ * Representa a lógica principal do jogo da Batalha Naval.
+ *
+ * Esta classe controla:
+ * - os disparos feitos pelo jogador
+ * - a validação de jogadas
+ * - a contagem de acertos, erros e navios afundados
  */
 
 public class Game implements IGame {

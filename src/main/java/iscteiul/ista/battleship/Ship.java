@@ -7,6 +7,16 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Classe abstrata que representa um navio no jogo.
+ *
+ * Um navio tem:
+ * - um tipo (categoria)
+ * - uma posição inicial
+ * - uma orientação (bearing)
+ * - várias posições ocupadas no tabuleiro
+ */
+
 public abstract class Ship implements IShip {
 
     private static final String GALEAO = "galeao";
